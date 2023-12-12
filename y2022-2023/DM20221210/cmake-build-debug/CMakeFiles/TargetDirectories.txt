@@ -1,0 +1,3 @@
+C:/Users/yurys/CLionProjects/DM20221210/cmake-build-debug/CMakeFiles/DM20221210.dir
+C:/Users/yurys/CLionProjects/DM20221210/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yurys/CLionProjects/DM20221210/cmake-build-debug/CMakeFiles/rebuild_cache.dir

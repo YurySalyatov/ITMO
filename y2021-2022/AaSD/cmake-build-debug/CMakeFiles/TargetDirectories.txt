@@ -1,0 +1,3 @@
+C:/Users/yurys/CLionProjects/AaSD/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yurys/CLionProjects/AaSD/cmake-build-debug/CMakeFiles/AaSD.dir
+C:/Users/yurys/CLionProjects/AaSD/cmake-build-debug/CMakeFiles/rebuild_cache.dir
